@@ -9,6 +9,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+    background: url('background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: bisque;
+    background-attachment: fixed;
+    background-size: cover;
+
+
 }
 
 code {
